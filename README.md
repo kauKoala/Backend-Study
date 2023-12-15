@@ -4,7 +4,7 @@
 
 - 기간: 2023년 12월15일 ~ 
 - 일정: 금요일 오전 9시 30분 (발표), 화요일 오전 9시 30분 (직무 인터뷰)
-- 노션: [바로가기](https://www.notion.so/16-C-Python-623b3b1348874db298d99aac8053243e?pvs=4)
+- 노션: [바로가기](https://harvest-redcurrant-ad7.notion.site/36d385cff66f403cbabe5a5c2181abb8?pvs=4)
 
 <br>
 
