@@ -33,4 +33,7 @@ OIDC의 장점의 경우에는 OAuth는 사용자 정보를 가져오려면 액�
 
 <br/>
 <br/>
-이미지 출처 - [hudi.blog - OAuth 2.0 개념과 동작원리](https://hudi.blog/oauth-2.0/)
+[이미지 출처 - hudi.blog]
+
+OAuth 2.0 개념과 동작원리 - https://hudi.blog/oauth-2.0/
+
