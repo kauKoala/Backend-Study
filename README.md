@@ -22,7 +22,7 @@ WEEK1 / 이름 / 파일
 
 | **주차** | **분류**   | **권민재**| **우찬희**| **이상재**| **정다빈**| **진행 현황** | 날짜     |
 | -------- | ---------- | ----------------------------------------------------------- | ----------------------------------------------------------- | --------------------------------------------------------- | ------------------------------------------------------------ | ------------- | -------- |
-| WEEK1    | 주제 발표 | 34. 인덱스와 왜 인덱스를 사용하면 빠른지?       | 11. 쿠키와 세션은 무슨 차이인가         |2. 프레임워크와 라이브러리의 차이| 1. OAuth와 사용경험               | `진행 전`   | 23.12.15 |
+| WEEK1    | 주제 발표 | [34. 인덱스와 왜 인덱스를 사용하면 빠른지?](https://github.com/kauKoala/Backend-Study/blob/master/WEEK1/34.%20%EC%9D%B8%EB%8D%B1%EC%8A%A4%EC%99%80%20%EC%99%9C%20%EC%9D%B8%EB%8D%B1%EC%8A%A4%EB%A5%BC%20%EC%82%AC%EC%9A%A9%ED%95%98%EB%A9%B4%20%EB%B9%A0%EB%A5%B8%EC%A7%80/%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.md)       | [11. 쿠키와 세션은 무슨 차이인가](https://github.com/kauKoala/Backend-Study/blob/master/WEEK1/11.%20%EC%BF%A0%ED%82%A4%EC%99%80%20%EC%84%B8%EC%85%98%EC%9D%80%20%EB%AC%B4%EC%8A%A8%20%EC%B0%A8%EC%9D%B4%EC%9D%B8%EA%B0%80/README.md)         |[2. 프레임워크와 라이브러리의 차이](https://github.com/kauKoala/Backend-Study/blob/master/WEEK1/2.%20%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC%EC%99%80%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC%EC%9D%98%20%EC%B0%A8%EC%9D%B4/%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.md)| [1. OAuth와 사용경험](https://github.com/kauKoala/Backend-Study/blob/master/WEEK1/1.%20OAuth%EC%99%80%20%EC%82%AC%EC%9A%A9%EA%B2%BD%ED%97%98/README.md)               | `진행완료`   | 23.12.15 |
 
 ### ✅ 스터디 목적
 
