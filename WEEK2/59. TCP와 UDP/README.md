@@ -79,6 +79,20 @@ TCP 특징인 데이터 순서가 보장되고, 신뢰적인 데이터를 보낼
 - Fast Recovery
     - 데이터 전송에 문제가 생기면 window size를 1로 줄이지 않고, 반절로 줄여서 다시 Addictive Increase를 할 수 있도록 함
 
-- 흐름제어와 혼잡제어의 차이점
-    - 흐름제어: 송신측과 수신측의 데이터 처리 속도 차이를 제어하기 위한 방법
-    - 혼잡제어: 송신측과 네트워크 데이터 처리 속도 차이를 제어하기 위한 방법
+흐름제어와 혼잡제어의 차이점
+- 흐름제어: 송신측과 수신측의 데이터 처리 속도 차이를 제어하기 위한 방법
+- 혼잡제어: 송신측과 네트워크 데이터 처리 속도 차이를 제어하기 위한 방법
+
+### 6. MTU, MSS
+
+![image](https://github.com/kauKoala/Backend-Study/assets/79046106/b5597e34-92eb-4c4e-8607-e635498abc0b)
+
+MTU (Maximum Transmission Unit)
+
+- IP 데이터그램에서 전송할 수 있는 최대 크기의 패킷
+- 만약 MTU를 넘어선 데이터가 들어오면 데이터를 나누어서 전송함 (= 단편화)
+
+MSS (Maximum Segment Size)
+
+- TCP 상에서 전송할 수 있는 데이터의 최대 크기
+- MSS = MTU - IP 헤더 크기 - TCP 헤더 크기
