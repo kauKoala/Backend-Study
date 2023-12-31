@@ -20,7 +20,8 @@
 
 JVM Heap의 두 가지 세부 영역에 따라 GC가 다름
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/c85016d6-9aa9-4077-a2c2-27194c83947d/9c2daf93-bff8-4b89-b27e-a47b3bdd3ce3/Untitled.png)
+<img width="288" alt="IMG" src="https://github.com/kauKoala/Backend-Study/assets/84485400/93ddb378-26ab-4a91-8572-9e59d1fef5a7">
+
 
 ### Young 영역 (Young Generation)
 
