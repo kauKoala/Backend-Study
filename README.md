@@ -25,6 +25,9 @@ WEEK1 / 이름 / 파일
 | WEEK1    | 주제 발표 | [34. 인덱스와 왜 인덱스를 사용하면 빠른지?](https://github.com/kauKoala/Backend-Study/blob/master/WEEK1/34.%20%EC%9D%B8%EB%8D%B1%EC%8A%A4%EC%99%80%20%EC%99%9C%20%EC%9D%B8%EB%8D%B1%EC%8A%A4%EB%A5%BC%20%EC%82%AC%EC%9A%A9%ED%95%98%EB%A9%B4%20%EB%B9%A0%EB%A5%B8%EC%A7%80/%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.md)       | [11. 쿠키와 세션은 무슨 차이인가](https://github.com/kauKoala/Backend-Study/blob/master/WEEK1/11.%20%EC%BF%A0%ED%82%A4%EC%99%80%20%EC%84%B8%EC%85%98%EC%9D%80%20%EB%AC%B4%EC%8A%A8%20%EC%B0%A8%EC%9D%B4%EC%9D%B8%EA%B0%80/README.md)         |[2. 프레임워크와 라이브러리의 차이](https://github.com/kauKoala/Backend-Study/blob/master/WEEK1/2.%20%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC%EC%99%80%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC%EC%9D%98%20%EC%B0%A8%EC%9D%B4/%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.md)| [1. OAuth와 사용경험](https://github.com/kauKoala/Backend-Study/blob/master/WEEK1/1.%20OAuth%EC%99%80%20%EC%82%AC%EC%9A%A9%EA%B2%BD%ED%97%98/README.md)               | `진행완료`   | 23.12.15 |
 | WEEK1 | 모의 인터뷰 | | | | | `진행완료` | 23.12.19 |
 | WEEK2 | 주제 발표  | [53. 공인 IP vs 사설 IP](https://github.com/kauKoala/Backend-Study/tree/master/WEEK2/53.%20%EA%B3%B5%EC%9D%B8%20IP%20vs%20%EC%82%AC%EC%84%A4%20IP)| [4. CSRF](https://github.com/kauKoala/Backend-Study/tree/master/WEEK2/4.%20CSRF)        | [3. 객체지향과 절차지향의 차이](https://github.com/kauKoala/Backend-Study/tree/master/WEEK2/3.%20%EC%A0%88%EC%B0%A8%EC%A7%80%ED%96%A5%EA%B3%BC%20%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%9D%98%20%EC%B0%A8%EC%9D%B4) | [59. TCP와 UDP](https://github.com/kauKoala/Backend-Study/tree/master/WEEK2/59.%20TCP%EC%99%80%20UDP)               | `진행완료`   | 23.12.22 |
+| WEEK2 | 모의 인터뷰 | | | | | `진행완료` | 23.12.26 |
+| WEEK3 | 주제 발표 |[6. 본인이 쓰는 언어가 엔진단에서 어떻게 동작하는지](https://github.com/kauKoala/Backend-Study/blob/master/WEEK3/6.%20%EB%B3%B8%EC%9D%B8%EC%9D%B4%20%EC%93%B0%EB%8A%94%20%EC%96%B8%EC%96%B4%EA%B0%80%20%EC%97%94%EC%A7%84%EB%8B%A8%EC%97%90%EC%84%9C%20%EC%96%B4%EB%96%BB%EA%B2%8C%20%EB%8F%99%EC%9E%91%ED%95%98%EB%8A%94%EC%A7%80/6.%20%EB%B3%B8%EC%9D%B8%EC%9D%B4%20%EC%93%B0%EB%8A%94%20%EC%96%B8%EC%96%B4%EA%B0%80%20%EC%97%94%EC%A7%84%EB%8B%A8%EC%97%90%EC%84%9C%20%EC%96%B4%EB%96%BB%EA%B2%8C%20%EB%8F%99%EC%9E%91%ED%95%98%EB%8A%94%EC%A7%80.md)|[37. GC](https://github.com/kauKoala/Backend-Study/tree/master/WEEK3/37.%20GC) |[5. MVC](https://github.com/kauKoala/Backend-Study/tree/master/WEEK3/5.%20MVC)| | `진행완료` | 23.12.29 |
+| WEEK3 | 모의 인터뷰 | | | | | `진행완료` | 24.1.2 |
 
 ### ✅ 스터디 목적
 
@@ -92,8 +95,8 @@ WEEK1 / 이름 / 파일
 | 2 | 프레임워크와 라이브러리의 차이 |✅|  |
 | 3 | 절차지향과 객체지향의 차이 |✅ |  |
 | 4 | CSRF|✅  |  |
-| 5 | MVC | |  |
-| 6 | 본인이 쓰는 언어가 엔진단에서 어떻게 동작하는지| |   |
+| 5 | MVC |✅|  |
+| 6 | 본인이 쓰는 언어가 엔진단에서 어떻게 동작하는지|✅|   |
 | 7 | HTTP | |  |
 | 8 | REST | |  |
 | 9 | RESTful 한 API란 어떤것? | |  |
@@ -124,7 +127,7 @@ WEEK1 / 이름 / 파일
 | 34 | 인덱스와 왜 인덱스를 사용하면 빠른지? |✅|  |
 | 35 | 좋은 인덱스는? | |  |
 | 36 | 무결성 | |  |
-| 37 | GC | |  |
+| 37 | GC |✅|  |
 | 38 | thread safe 하게 개발하는법은? | |  |
 | 39 | inner join vs outer join | |  |
 | 40 | 정규화 | |  |
