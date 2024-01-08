@@ -227,6 +227,13 @@ class ResponseList {
 2. Collections.unmodifiableList 을 적용해도 내부 원소가 mutable 하면 외부에서 수정 가능하다.
 3. 관련 객체도 immutable을 보장해야 한다.
 
+### 그 외 java의 불변 객체들
+
+1. String 클래스
+1. Wrapper 클래스
+1. UUID, Optional
+1. LocalDate, LocalTime, LocalDateTime
+
 ### Reference
 
 https://medium.com/@cs.vivekgupta/everything-about-immutable-classes-in-java-9f5fe8e6ca54
