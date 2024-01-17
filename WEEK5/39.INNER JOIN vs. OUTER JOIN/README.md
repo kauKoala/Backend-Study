@@ -7,6 +7,7 @@
 - 연결하려는 테이블들이 적어도 하나의 컬럼을 공유하고 있어야 함
 - INNER JOIN, OUTER JOIN (LEFT, RIGHT, FULL) 등이 있음
 
+
 ### ON과 WHERE의 차이점
 
 ![img.png](img.png)
@@ -15,8 +16,10 @@
     - JOIN과 ON은 사실상 동시에 처리됨
     - JOIN한 결과에서 WHERE 조건절로 필터링
 
+
 # 1. INNER JOIN
-![스크린샷 2024-01-13 오후 12.28.42.png](..%2F..%2F..%2FDesktop%2F%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202024-01-13%20%EC%98%A4%ED%9B%84%2012.28.42.png)
+<img width="445" alt="스크린샷 2024-01-13 오후 12 28 42" src="https://github.com/kauKoala/Backend-Study/assets/84485400/2b5a1398-ef98-4b8f-b6b4-09f5a172a40f">
+
 
 ```sql
 SELECT *
@@ -26,7 +29,8 @@ FROM A a
 ```
 
 # 2. OUTER JOIN
-![스크린샷 2024-01-13 오후 12.24.15.png](..%2F..%2F..%2FDesktop%2F%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202024-01-13%20%EC%98%A4%ED%9B%84%2012.24.15.png)
+<img width="635" alt="스크린샷 2024-01-13 오후 12 24 15" src="https://github.com/kauKoala/Backend-Study/assets/84485400/694a5a4c-f56d-43eb-a85e-ac2eefd9e2db">
+
 - OUTER 생략 가능
 - `MYSQL`에서는 FULL OUTER JOIN을 지원하지 않음
     - LEFT JOIN과 RIGHT JOIN을 합쳐서 쿼리를 짜야함
@@ -75,7 +79,7 @@ FROM A a
 # 3. 그 외의 JOIN
 
 ## CROSS JOIN
-![스크린샷 2024-01-13 오후 12.57.52.png](..%2F..%2F..%2FDesktop%2F%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202024-01-13%20%EC%98%A4%ED%9B%84%2012.57.52.png)
+<img width="505" alt="스크린샷 2024-01-13 오후 12 57 52" src="https://github.com/kauKoala/Backend-Study/assets/84485400/0aac7878-107b-4085-80ff-78aaa7a3ba5e">
 
 - 한 쪽 테이블의 모든 행과 다른 쪽 테이블의 모든 행을 조인시키는 기능
 - CROSS JOIN의 전체 행 개수는 두 테이블의 각 행의 개수를 곱한 수
@@ -87,7 +91,7 @@ FROM A a
 ```
 
 ## SELF JOIN
-![스크린샷 2024-01-13 오후 1.00.08.png](..%2F..%2F..%2FDesktop%2F%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202024-01-13%20%EC%98%A4%ED%9B%84%201.00.08.png)
+<img width="501" alt="스크린샷 2024-01-13 오후 1 00 08" src="https://github.com/kauKoala/Backend-Study/assets/84485400/90d8c68e-cb11-48b6-875f-6d37790c70d0">
 
 - 자기 자신과의 조인 = 1개의 테이블만 사용
 
@@ -104,3 +108,4 @@ FROM A a1
 - https://dev-coco.tistory.com/158
 - [https://hongong.hanbit.co.kr/sql-기본-문법-joininner-outer-cross-self-join/](https://hongong.hanbit.co.kr/sql-%EA%B8%B0%EB%B3%B8-%EB%AC%B8%EB%B2%95-joininner-outer-cross-self-join/)
 - https://jaehoney.tistory.com/191
+
