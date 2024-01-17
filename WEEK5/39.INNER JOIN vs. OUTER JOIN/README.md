@@ -7,14 +7,19 @@
 - 연결하려는 테이블들이 적어도 하나의 컬럼을 공유하고 있어야 함
 - INNER JOIN, OUTER JOIN (LEFT, RIGHT, FULL) 등이 있음
 
-**ON과 WHERE의 차이점**
 
-- ON → JOIN → WHERE 순서로 실행
-    - ON 조건으로 필터링을 거친 후, 결과 레코들간의 JOIN 실행
+### ON과 WHERE의 차이점
+
+![img.png](img.png)
+-  JOIN → ON → WHERE 순서로 실행
+    - ON 조건에 따라 두 테이의 관련 행이 결합됨
+    - JOIN과 ON은 사실상 동시에 처리됨
     - JOIN한 결과에서 WHERE 조건절로 필터링
+
 
 # 1. INNER JOIN
 <img width="445" alt="스크린샷 2024-01-13 오후 12 28 42" src="https://github.com/kauKoala/Backend-Study/assets/84485400/2b5a1398-ef98-4b8f-b6b4-09f5a172a40f">
+
 
 ```sql
 SELECT *
@@ -102,3 +107,5 @@ FROM A a1
 - https://pearlluck.tistory.com/46
 - https://dev-coco.tistory.com/158
 - [https://hongong.hanbit.co.kr/sql-기본-문법-joininner-outer-cross-self-join/](https://hongong.hanbit.co.kr/sql-%EA%B8%B0%EB%B3%B8-%EB%AC%B8%EB%B2%95-joininner-outer-cross-self-join/)
+- https://jaehoney.tistory.com/191
+
