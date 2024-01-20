@@ -35,7 +35,8 @@ HTTP 1.1에서 Pipelining과 Persistence Connection을 통해 어느 정도 웹 
 
 왜 기존 텍스트 기반 프로토콜은 HTTP2에서 버림받았는가
 
-![Untitled](120%20HTTP2%20b933d1518db145dfac6635826643bdef/Untitled.png)
+![binary framing](https://github.com/sj7699/Backend-Study/assets/26706925/5dcdad2b-cf78-4f9d-bab7-c54220a6156d)
+
 
 - 효율적이어서
     - 기존에는 줄바꿈으로 구분되던 아스키 코드 기반 텍스트
@@ -55,7 +56,8 @@ HTTP 1.1에서 Pipelining과 Persistence Connection을 통해 어느 정도 웹 
 
 ### Multiplexing
 
-![Untitled](120%20HTTP2%20b933d1518db145dfac6635826643bdef/Untitled%201.png)
+![multiplex](https://github.com/sj7699/Backend-Study/assets/26706925/a467a5c5-2bce-4b54-842c-a531b33695ee)
+
 
 Multiplexing은 Latency를 줄이고자 나온 개념이다.
 
@@ -67,13 +69,17 @@ Multiplexing은 Latency를 줄이고자 나온 개념이다.
 
 - 이를 개선할 수 없을까?
 
+
+![http1 1 1 2](https://github.com/sj7699/Backend-Study/assets/26706925/00f1db8a-7559-42a3-90ba-fc79dae1950c)
+
 메시지와 스트림을 사용하여서 동시에 여러개의 메시지 스트림을 응답 순서에 상관없이 주고 받을 수 있게 되었다.
 
-![Untitled](120%20HTTP2%20b933d1518db145dfac6635826643bdef/Untitled%202.png)
+
 
 ### Server Push
 
-![Untitled](120%20HTTP2%20b933d1518db145dfac6635826643bdef/Untitled%203.png)
+![server push](https://github.com/sj7699/Backend-Study/assets/26706925/8b960039-83e1-4690-ab79-0d61bdba4b93)
+
 
 - 비대해진 웹사이트에서 많은 자원들을 loading 해야함
     - css, js, 이미지 등등,,,
@@ -91,7 +97,8 @@ Multiplexing은 Latency를 줄이고자 나온 개념이다.
 
 ### 헤더 압축
 
-![Untitled](120%20HTTP2%20b933d1518db145dfac6635826643bdef/Untitled.jpeg)
+![header compression](https://github.com/sj7699/Backend-Study/assets/26706925/7caf3873-669b-4a82-af92-22b6b94ecd83)
+
 
 HTTP2에서는 이전 frame에서 전송된 헤더들을 다시 전송하지 않음
 
