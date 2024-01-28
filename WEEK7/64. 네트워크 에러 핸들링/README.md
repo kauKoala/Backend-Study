@@ -21,8 +21,7 @@
 
 - 각 요청마다 랜덤한 시간을 추가하여 재전송하는 방식
 - 재시도 횟수가 증가할수록 네트워크 요청이 몰린 시간대의 요청들이 점점 분산된다.
-- AWS에서는 Exponential Backoff + Jitter를 사용해 재전송한다.
-(https://aws.amazon.com/ko/blogs/architecture/exponential-backoff-and-jitter/)
+- AWS에서는 Exponential Backoff + Jitter를 사용해 재전송한다. ([링크](https://aws.amazon.com/ko/blogs/architecture/exponential-backoff-and-jitter/))
 
 ### 이후엔…
 
