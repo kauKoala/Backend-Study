@@ -30,7 +30,11 @@ WEEK1 / 이름 / 파일
 | WEEK3 | 모의 인터뷰 | | | | | `진행완료` | 24.1.2 |
 | WEEK4 | 주제 발표 | [16.mutable과 immutable](https://github.com/kauKoala/Backend-Study/tree/master/WEEK4/16.mutable%20%EA%B3%BC%20immutable)|[57. CICD](https://github.com/kauKoala/Backend-Study/tree/master/WEEK4/57.%20CICD)|[7. HTTP](https://github.com/kauKoala/Backend-Study/tree/master/WEEK4/7.%20HTTP)|[60. 스프링 빈](https://github.com/kauKoala/Backend-Study/tree/master/WEEK4/60.%EC%8A%A4%ED%94%84%EB%A7%81%20%EB%B9%88) [61. 스프링과 스프링부트](https://github.com/kauKoala/Backend-Study/tree/master/WEEK4/61.%20%EC%8A%A4%ED%94%84%EB%A7%81%EA%B3%BC%20%EC%8A%A4%ED%94%84%EB%A7%81%20%EB%B6%80%ED%8A%B8)| `진행완료` | 24.1.6 |
 | WEEK4 | 모의 인터뷰 | | | | | `진행완료` | 24.1.10 |
-| WEEK5 | 주제 발표 | [8. REST](https://github.com/kauKoala/Backend-Study/tree/master/WEEK5/8.%20REST) | [39.INNER JOIN vs. OUTER JOIN](https://github.com/kauKoala/Backend-Study/tree/master/WEEK5/39.INNER%20JOIN%20vs.%20OUTER%20JOIN) | [120. HTTP2](https://github.com/kauKoala/Backend-Study/tree/master/WEEK5/120.%20HTTP2) | | `진행완료` | 24.1.10 |
+| WEEK5 | 주제 발표 | [8. REST](https://github.com/kauKoala/Backend-Study/tree/master/WEEK5/8.%20REST) | [39.INNER JOIN vs. OUTER JOIN](https://github.com/kauKoala/Backend-Study/tree/master/WEEK5/39.INNER%20JOIN%20vs.%20OUTER%20JOIN) | [120. HTTP2](https://github.com/kauKoala/Backend-Study/tree/master/WEEK5/120.%20HTTP2) | [62. IP,이더넷](https://github.com/kauKoala/Backend-Study/tree/master/WEEK5/62.%20IP%2C%20이더넷)| `진행완료` | 24.1.13 |
+| WEEK5 | 모의 인터뷰 | |  | | | `진행완료` | 24.1.17 |
+| WEEK6 | 주제 발표 | [47. 대칭키와 비대칭키](https://github.com/kauKoala/Backend-Study/tree/master/WEEK6/47.%20대칭키%20vs%20비대칭키) | [29. Lock](https://github.com/kauKoala/Backend-Study/tree/master/WEEK6/29.%20Lock) | [20. 직렬화와 역직렬화](https://github.com/kauKoala/Backend-Study/tree/master/WEEK6/20.%20직렬화와%20역직렬화) | [63. DNS](https://github.com/kauKoala/Backend-Study/tree/master/WEEK6/63.%20DNS) | `진행완료` | 24.1.20 |
+| WEEK6 | 모의 인터뷰 | |  | | | `진행완료` | 24.1.24 |
+| WEEK7 | 주제 발표 |  |  |  | [64. 네트워크 에러 핸들링](https://github.com/kauKoala/Backend-Study/tree/master/WEEK7/64.%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EC%97%90%EB%9F%AC%20%ED%95%B8%EB%93%A4%EB%A7%81) | `진행완료` | 24.1.30 |
 
 ### ✅ 스터디 목적
 
