@@ -34,7 +34,10 @@ WEEK1 / 이름 / 파일
 | WEEK5 | 모의 인터뷰 | |  | | | `진행완료` | 24.1.17 |
 | WEEK6 | 주제 발표 | [47. 대칭키와 비대칭키](https://github.com/kauKoala/Backend-Study/tree/master/WEEK6/47.%20대칭키%20vs%20비대칭키) | [29. Lock](https://github.com/kauKoala/Backend-Study/tree/master/WEEK6/29.%20Lock) | [20. 직렬화와 역직렬화](https://github.com/kauKoala/Backend-Study/tree/master/WEEK6/20.%20직렬화와%20역직렬화) | [63. DNS](https://github.com/kauKoala/Backend-Study/tree/master/WEEK6/63.%20DNS) | `진행완료` | 24.1.20 |
 | WEEK6 | 모의 인터뷰 | |  | | | `진행완료` | 24.1.24 |
-| WEEK7 | 주제 발표 |  |  |  | [64. 네트워크 에러 핸들링](https://github.com/kauKoala/Backend-Study/tree/master/WEEK7/64.%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EC%97%90%EB%9F%AC%20%ED%95%B8%EB%93%A4%EB%A7%81) | `진행완료` | 24.1.30 |
+| WEEK7 | 주제 발표 | [52. 파일 권한체계와 소유권]() | [33. 데드락]() |  | [64. 네트워크 에러 핸들링](https://github.com/kauKoala/Backend-Study/tree/master/WEEK7/64.%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EC%97%90%EB%9F%AC%20%ED%95%B8%EB%93%A4%EB%A7%81) | `진행완료` | 24.1.30 |
+| WEEK7 | 모의 인터뷰 | |  | | | `진행완료` | 24.1.30 |
+| WEEK8 | 주제 발표 | [30. 세마포어와 뮤텍스]() | [13. 오버라이딩과 오버로딩]() | [12. 제네릭]() | [65. 운영체제 정리]() | `진행완료` | 24.2.3 |
+| WEEK8 | 모의 인터뷰 | |  | | | `진행완료` | 24.2.8 |
 
 ### ✅ 스터디 목적
 
