@@ -38,6 +38,14 @@ WEEK1 / 이름 / 파일
 | WEEK7 | 모의 인터뷰 | |  | | | `진행완료` | 24.1.30 |
 | WEEK8 | 주제 발표 | [30. 세마포어와 뮤텍스](https://github.com/kauKoala/Backend-Study/tree/master/WEEK8/30.%20%EC%84%B8%EB%A7%88%ED%8F%AC%EC%96%B4%EC%99%80%20%EB%AE%A4%ED%85%8D%EC%8A%A4) | [13. 오버라이딩과 오버로딩](https://github.com/kauKoala/Backend-Study/tree/master/WEEK8/13.%20%EC%98%A4%EB%B2%84%EB%9D%BC%EC%9D%B4%EB%94%A9%EA%B3%BC%20%EC%98%A4%EB%B2%84%EB%A1%9C%EB%94%A9) | [12. 제네릭](https://github.com/kauKoala/Backend-Study/tree/master/WEEK8/12.%20%EC%A0%9C%EB%84%A4%EB%A6%AD) | [65. 운영체제 정리](https://github.com/kauKoala/Backend-Study/tree/master/WEEK8/65.%20%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C%20%EC%A0%95%EB%A6%AC) | `진행완료` | 24.2.3 |
 | WEEK8 | 모의 인터뷰 | |  | | | `진행완료` | 24.2.8 |
+| WEEK9 | 주제 발표 | []() | [68. Filter vs. Interceptor (1)](https://github.com/kauKoala/Backend-Study/tree/master/WEEK9/68.%20Filter%20vs.%20Interceptor) | [67. JPA Auditing](https://github.com/kauKoala/Backend-Study/tree/master/WEEK9/67.%20JPA%20Auditing) | [66. ETL 파이프라인](https://github.com/kauKoala/Backend-Study/tree/master/WEEK9/66.%20ETL%20%ED%8C%8C%EC%9D%B4%ED%94%84%EB%9D%BC%EC%9D%B8) | `진행완료` | 24.2.17 |
+| WEEK9 | 모의 인터뷰 | |  | | | `진행완료` | 24.2.20 |
+| WEEK10 | 주제 발표 | []() | [69. Filter vs. Interceptor (2)](https://github.com/kauKoala/Backend-Study/tree/master/WEEK10/69.%20Filter%20vs.%20Interceptor%20(2)) | [50. Package Manager](https://github.com/kauKoala/Backend-Study/tree/master/WEEK10/50.%20Package%20Manager) | [70. 하둡 역사, HDFS 기초](https://github.com/kauKoala/Backend-Study/tree/master/WEEK10/70.%20%ED%95%98%EB%91%A1%20%EC%97%AD%EC%82%AC%2C%20HDFS%20%EA%B8%B0%EC%B4%88) <br><br> [71. Spark](https://github.com/kauKoala/Backend-Study/tree/master/WEEK10/71.%20Spark) | `진행완료` | 24.2.24 |
+| WEEK10 | 모의 인터뷰 | |  | | | `진행완료` | 24.2.27 |
+| WEEK11 | 주제 발표 | []() | [74. Spring Batch (1)](https://github.com/kauKoala/Backend-Study/tree/master/WEEK11/74.%20Spring%20Batch%20(1)) | [122. 쿠버네티스 오버뷰](https://github.com/kauKoala/Backend-Study/tree/master/WEEK11/122.%20%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4%20%EC%98%A4%EB%B2%84%EB%B7%B0) | [72. 해시 테이블과 해시 충돌](https://github.com/kauKoala/Backend-Study/tree/master/WEEK11/72.%20%ED%95%B4%EC%8B%9C%20%ED%85%8C%EC%9D%B4%EB%B8%94%EA%B3%BC%20%ED%95%B4%EC%8B%9C%20%EC%B6%A9%EB%8F%8C) | `진행완료` | 24.3.2 |
+| WEEK11 | 모의 인터뷰 | |  | | | `진행완료` | 24.3.5 |
+| WEEK12 | 주제 발표 | []() | []() | []() | [76. CORS](https://github.com/kauKoala/Backend-Study/tree/master/WEEK12/76.%20CORS) | `진행완료` | 24.3.9 |
+| WEEK12 | 모의 인터뷰 | |  | | | `진행완료` | 24.3.12 |
 
 ### ✅ 스터디 목적
 
@@ -117,7 +125,7 @@ WEEK1 / 이름 / 파일
 | 14 | 상속 | |  |
 | 15 | 인터페이스와 추상클래스 | |  |
 | 16 | mutable과 immutable |✅|  |
-| 17 | call by reference vs call by name vs call by address| |  |
+| 17 | call by reference vs call by name vs call by address|✅|  |
 | 18 | 싱글톤패턴 | |  |
 | 19 | 코루틴 | |  |
 | 20 | 직렬화와 역직렬화 |✅|  |
@@ -150,7 +158,7 @@ WEEK1 / 이름 / 파일
 | 47 | 대칭키 vs 비대칭키 |✅|  |
 | 48 | Scale up vs Scale out | |  |
 | 49 | Docker는 왜 많이 사용될까? | |  |
-| 50 | 패키지 관리자(Package Manager) | |  |
+| 50 | 패키지 관리자(Package Manager) |✅|  |
 | 51 | 환경변수 | |  |
 | 52 | 파일 권한체계와 소유권 |✅|  |
 | 53 | 공인 IP vs 사설 IP |✅ |  |
