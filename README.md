@@ -3,7 +3,7 @@
 > KOALA 백엔드 스터디
 
 - 기간: 2023년 12월15일 ~ 
-- 일정: 금요일 오전 9시 30분 (발표), 화요일 오전 9시 30분 (직무 인터뷰)
+- 일정: 금요일 오전 9시 30분 (발표), 화요일 오전 9시 30분 (직무 인터뷰) [**현재는 잠시 중단 중**]
 - 노션: [바로가기](https://harvest-redcurrant-ad7.notion.site/36d385cff66f403cbabe5a5c2181abb8?pvs=4)
 
 <br>
@@ -44,8 +44,12 @@ WEEK1 / 이름 / 파일
 | WEEK10 | 모의 인터뷰 | |  | | | `진행완료` | 24.2.27 |
 | WEEK11 | 주제 발표 | []() | [74. Spring Batch (1)](https://github.com/kauKoala/Backend-Study/tree/master/WEEK11/74.%20Spring%20Batch%20(1)) | [122. 쿠버네티스 오버뷰](https://github.com/kauKoala/Backend-Study/tree/master/WEEK11/122.%20%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4%20%EC%98%A4%EB%B2%84%EB%B7%B0) | [72. 해시 테이블과 해시 충돌](https://github.com/kauKoala/Backend-Study/tree/master/WEEK11/72.%20%ED%95%B4%EC%8B%9C%20%ED%85%8C%EC%9D%B4%EB%B8%94%EA%B3%BC%20%ED%95%B4%EC%8B%9C%20%EC%B6%A9%EB%8F%8C) | `진행완료` | 24.3.2 |
 | WEEK11 | 모의 인터뷰 | |  | | | `진행완료` | 24.3.5 |
-| WEEK12 | 주제 발표 | []() | []() | []() | [76. CORS](https://github.com/kauKoala/Backend-Study/tree/master/WEEK12/76.%20CORS) | `진행완료` | 24.3.9 |
+| WEEK12 | 주제 발표 | []() | [75. Spring Batch (2)](https://github.com/kauKoala/Backend-Study/tree/master/WEEK12/75.%20Spring%20Batch%20(2)) | [42. DB Clusterng](https://github.com/kauKoala/Backend-Study/tree/master/WEEK12/42.%20DB%20%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0%EB%A7%81) | [76. CORS](https://github.com/kauKoala/Backend-Study/tree/master/WEEK12/76.%20CORS) | `진행완료` | 24.3.9 |
 | WEEK12 | 모의 인터뷰 | |  | | | `진행완료` | 24.3.12 |
+| WEEK13 | 주제 발표 | []() | [32. DB isolation level](https://github.com/kauKoala/Backend-Study/tree/master/WEEK13/32.%20DB%20isolation%20level) | [43. DB Replication](https://github.com/kauKoala/Backend-Study/tree/master/WEEK13/43.%20DB%20Replication) | [78. Compare And Swap](https://github.com/kauKoala/Backend-Study/tree/master/WEEK13/78.%20Compare%20And%20Swap) | `진행완료` | 24.4.20 |
+| WEEK14 | 주제 발표 | []() | [80. 객체지향 생활체조원칙](https://github.com/kauKoala/Backend-Study/tree/master/WEEK14/80.%20%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%20%EC%83%9D%ED%99%9C%EC%B2%B4%EC%A1%B0%EC%9B%90%EC%B9%99) | [87. Oracle vs MySQL](https://github.com/kauKoala/Backend-Study/tree/master/WEEK14/87.%20Oracle%20vs%20MySQL) | [79. Software Transactional Memory](https://github.com/kauKoala/Backend-Study/tree/master/WEEK14/79.%20Software%20Transactional%20Memory) | `진행완료` | 24.5.4 |
+| WEEK15 | 주제 발표 | []() | [18. 싱글톤 패턴](https://github.com/kauKoala/Backend-Study/tree/master/WEEK15/18.%20%EC%8B%B1%EA%B8%80%ED%86%A4%20%ED%8C%A8%ED%84%B4) | []() | [81. Actor Model](https://github.com/kauKoala/Backend-Study/tree/master/WEEK15/81.%20Actor%20Model) [82. Socket](https://github.com/kauKoala/Backend-Study/tree/master/WEEK15/82.%20Socket) | `진행완료` | 24.5.12 |
+| WEEK16 | 주제 발표 | []() | [86. I/O 메커니즘](https://github.com/kauKoala/Backend-Study/tree/master/WEEK16/86.%20IO%20%EB%A9%94%EC%BB%A4%EB%8B%88%EC%A6%98) | [88. 드라이빙 테이블](https://github.com/kauKoala/Backend-Study/tree/master/WEEK16/88.%20%EB%93%9C%EB%9D%BC%EC%9D%B4%EB%B9%99%20%ED%85%8C%EC%9D%B4%EB%B8%94) | [84. HTTPS](https://github.com/kauKoala/Backend-Study/tree/master/WEEK16/84.%20HTTPS) | `진행완료` | 24.5.19 |
 
 ### ✅ 스터디 목적
 
@@ -126,7 +130,7 @@ WEEK1 / 이름 / 파일
 | 15 | 인터페이스와 추상클래스 | |  |
 | 16 | mutable과 immutable |✅|  |
 | 17 | call by reference vs call by name vs call by address|✅|  |
-| 18 | 싱글톤패턴 | |  |
+| 18 | 싱글톤패턴 |✅|  |
 | 19 | 코루틴 | |  |
 | 20 | 직렬화와 역직렬화 |✅|  |
 | 21 | json | |  |
@@ -140,7 +144,7 @@ WEEK1 / 이름 / 파일
 | 29 | Lock 개념을 아는지 |✅|  |
 | 30 | 세마포어와 뮤텍스 / 언제사용? / 어떤 구현방법? |✅|  |
 | 31 | 트랜잭션 | |  |
-| 32 | DB isolation level | |  |
+| 32 | DB isolation level |✅|  |
 | 33 | 데드락 |✅|  |
 | 34 | 인덱스와 왜 인덱스를 사용하면 빠른지? |✅|  |
 | 35 | 좋은 인덱스는? | |  |
@@ -150,8 +154,8 @@ WEEK1 / 이름 / 파일
 | 39 | inner join vs outer join |✅|  |
 | 40 | 정규화 | |  |
 | 41 | 반정규화 / 사용해야할때 | |  |
-| 42 | DB 클러스터링 | |  |
-| 43 | DB Replication | |  |
+| 42 | DB 클러스터링 |✅|  |
+| 43 | DB Replication |✅|  |
 | 44 | RDB vs NoSQL | |  |
 | 45 | ElasticSearch | |  |
 | 46 | MSA vs Monolithic | |  |
@@ -168,3 +172,34 @@ WEEK1 / 이름 / 파일
 | 57 | CI/CD |✅|  |
 | 58 | Testing | |  |
 | 59 | TCP와 UDP | ✅|  |
+| 60 | 스프링 빈 | ✅|  |
+| 61 | 스프링, 스프링 부트 | ✅|  |
+| 62 | IP, 이더넷 | ✅|  |
+| 63 | DNS | ✅|  |
+| 64 | 네트워크 에러 핸들링 | ✅|  |
+| 65 | 운영체제 정리 | ✅|  |
+| 66 | ETL 파이프라인 | ✅|  |
+| 67 | JPA Audtiing | ✅|  |
+| 68 | Filter vs Interceptor (1) | ✅|  |
+| 69 | Filteer vs Interceptor (2) | ✅|  |
+| 70 | 하둡 역사, HDFS 기초 | ✅|  |
+| 71 | Spark | ✅|  |
+| 72 | 해시 테이블과 해시 충돌 | ✅|  |
+| 73 | 서버에서 rm 실수 줄이기 | ✅|  |
+| 74 | Spring Batch (1) | ✅|  |
+| 75 | Spring Batch (2) | ✅|  |
+| 76 | CORS | ✅|  |
+| 77 | 동기 / 비동기,블로킹 / 논블로킹 | ✅|  |
+| 78 | Compare and Swap | ✅|  |
+| 79 | Software Transactional Memory | ✅|  |
+| 80 | 객체지향 생활체조 원칙 | ✅|  |
+| 81 | Actor Model | ✅|  |
+| 82 | Socket | ✅|  |
+| 83 | Bitmap Indx | ✅|  |
+| 84 | HTTPS | ✅|  |
+| 85 | 파이썬의 ** | ✅|  |
+| 86 | I/O 메커니즘 | ✅|  |
+| 86 | I/O 메커니즘 | ✅|  |
+| 86 | I/O 메커니즘 | ✅|  |
+| 87 | Oracle vs MySQL | ✅|  |
+| 88 | 드라이빙 테이블 | ✅|  |
