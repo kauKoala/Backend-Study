@@ -3,7 +3,7 @@
 > KOALA 백엔드 스터디
 
 - 기간: 2023년 12월15일 ~ 
-- 일정: 금요일 오전 9시 30분 (발표), 화요일 오전 9시 30분 (직무 인터뷰)
+- 일정: 금요일 오전 9시 30분 (발표), 화요일 오전 9시 30분 (직무 인터뷰) [**현재는 잠시 중단 중**]
 - 노션: [바로가기](https://harvest-redcurrant-ad7.notion.site/36d385cff66f403cbabe5a5c2181abb8?pvs=4)
 
 <br>
@@ -38,6 +38,18 @@ WEEK1 / 이름 / 파일
 | WEEK7 | 모의 인터뷰 | |  | | | `진행완료` | 24.1.30 |
 | WEEK8 | 주제 발표 | [30. 세마포어와 뮤텍스](https://github.com/kauKoala/Backend-Study/tree/master/WEEK8/30.%20%EC%84%B8%EB%A7%88%ED%8F%AC%EC%96%B4%EC%99%80%20%EB%AE%A4%ED%85%8D%EC%8A%A4) | [13. 오버라이딩과 오버로딩](https://github.com/kauKoala/Backend-Study/tree/master/WEEK8/13.%20%EC%98%A4%EB%B2%84%EB%9D%BC%EC%9D%B4%EB%94%A9%EA%B3%BC%20%EC%98%A4%EB%B2%84%EB%A1%9C%EB%94%A9) | [12. 제네릭](https://github.com/kauKoala/Backend-Study/tree/master/WEEK8/12.%20%EC%A0%9C%EB%84%A4%EB%A6%AD) | [65. 운영체제 정리](https://github.com/kauKoala/Backend-Study/tree/master/WEEK8/65.%20%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C%20%EC%A0%95%EB%A6%AC) | `진행완료` | 24.2.3 |
 | WEEK8 | 모의 인터뷰 | |  | | | `진행완료` | 24.2.8 |
+| WEEK9 | 주제 발표 | [17. call by reference vs call by name vs call by address](https://github.com/kauKoala/Backend-Study/tree/master/WEEK9/17.%20call%20by%20reference%20vs%20call%20by%20name%20vs%20call%20by%20address) | [68. Filter vs. Interceptor (1)](https://github.com/kauKoala/Backend-Study/tree/master/WEEK9/68.%20Filter%20vs.%20Interceptor) | [67. JPA Auditing](https://github.com/kauKoala/Backend-Study/tree/master/WEEK9/67.%20JPA%20Auditing) | [66. ETL 파이프라인](https://github.com/kauKoala/Backend-Study/tree/master/WEEK9/66.%20ETL%20%ED%8C%8C%EC%9D%B4%ED%94%84%EB%9D%BC%EC%9D%B8) | `진행완료` | 24.2.17 |
+| WEEK9 | 모의 인터뷰 | |  | | | `진행완료` | 24.2.20 |
+| WEEK10 | 주제 발표 | [73. 서버에서 rm 실수 줄이기](https://github.com/kauKoala/Backend-Study/tree/master/WEEK11/73.%20%EC%84%9C%EB%B2%84%EC%97%90%EC%84%9C%20rm%20%EC%8B%A4%EC%88%98%20%EC%A4%84%EC%9D%B4%EA%B8%B0) | [69. Filter vs. Interceptor (2)](https://github.com/kauKoala/Backend-Study/tree/master/WEEK10/69.%20Filter%20vs.%20Interceptor%20(2)) | [50. Package Manager](https://github.com/kauKoala/Backend-Study/tree/master/WEEK10/50.%20Package%20Manager) | [70. 하둡 역사, HDFS 기초](https://github.com/kauKoala/Backend-Study/tree/master/WEEK10/70.%20%ED%95%98%EB%91%A1%20%EC%97%AD%EC%82%AC%2C%20HDFS%20%EA%B8%B0%EC%B4%88) <br><br> [71. Spark](https://github.com/kauKoala/Backend-Study/tree/master/WEEK10/71.%20Spark) | `진행완료` | 24.2.24 |
+| WEEK10 | 모의 인터뷰 | |  | | | `진행완료` | 24.2.27 |
+| WEEK11 | 주제 발표 | []() | [74. Spring Batch (1)](https://github.com/kauKoala/Backend-Study/tree/master/WEEK11/74.%20Spring%20Batch%20(1)) | [122. 쿠버네티스 오버뷰](https://github.com/kauKoala/Backend-Study/tree/master/WEEK11/122.%20%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4%20%EC%98%A4%EB%B2%84%EB%B7%B0) | [72. 해시 테이블과 해시 충돌](https://github.com/kauKoala/Backend-Study/tree/master/WEEK11/72.%20%ED%95%B4%EC%8B%9C%20%ED%85%8C%EC%9D%B4%EB%B8%94%EA%B3%BC%20%ED%95%B4%EC%8B%9C%20%EC%B6%A9%EB%8F%8C) | `진행완료` | 24.3.2 |
+| WEEK11 | 모의 인터뷰 | |  | | | `진행완료` | 24.3.5 |
+| WEEK12 | 주제 발표 | [89. 버전관리에 대해](https://github.com/kauKoala/Backend-Study/tree/master/WEEK12/89.%20%EB%B2%84%EC%A0%84%EA%B4%80%EB%A6%AC%EC%97%90%20%EB%8C%80%ED%95%B4) | [75. Spring Batch (2)](https://github.com/kauKoala/Backend-Study/tree/master/WEEK12/75.%20Spring%20Batch%20(2)) | [42. DB Clusterng](https://github.com/kauKoala/Backend-Study/tree/master/WEEK12/42.%20DB%20%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0%EB%A7%81) | [76. CORS](https://github.com/kauKoala/Backend-Study/tree/master/WEEK12/76.%20CORS) | `진행완료` | 24.3.9 |
+| WEEK12 | 모의 인터뷰 | |  | | | `진행완료` | 24.3.12 |
+| WEEK13 | 주제 발표 | [48. Scale up vs Scale out](https://github.com/kauKoala/Backend-Study/tree/master/WEEK13/48.%20Scale%20up%20vs%20Scale%20out) | [32. DB isolation level](https://github.com/kauKoala/Backend-Study/tree/master/WEEK13/32.%20DB%20isolation%20level) | [43. DB Replication](https://github.com/kauKoala/Backend-Study/tree/master/WEEK13/43.%20DB%20Replication) | [78. Compare And Swap](https://github.com/kauKoala/Backend-Study/tree/master/WEEK13/78.%20Compare%20And%20Swap) | `진행완료` | 24.4.20 |
+| WEEK14 | 주제 발표 | []() | [80. 객체지향 생활체조원칙](https://github.com/kauKoala/Backend-Study/tree/master/WEEK14/80.%20%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%20%EC%83%9D%ED%99%9C%EC%B2%B4%EC%A1%B0%EC%9B%90%EC%B9%99) | [87. Oracle vs MySQL](https://github.com/kauKoala/Backend-Study/tree/master/WEEK14/87.%20Oracle%20vs%20MySQL) | [79. Software Transactional Memory](https://github.com/kauKoala/Backend-Study/tree/master/WEEK14/79.%20Software%20Transactional%20Memory) | `진행완료` | 24.5.4 |
+| WEEK15 | 주제 발표 | [83. bitmap index](https://github.com/kauKoala/Backend-Study/tree/master/WEEK15/83.%20bitmap%20index) | [18. 싱글톤 패턴](https://github.com/kauKoala/Backend-Study/tree/master/WEEK15/18.%20%EC%8B%B1%EA%B8%80%ED%86%A4%20%ED%8C%A8%ED%84%B4) | []() | [81. Actor Model](https://github.com/kauKoala/Backend-Study/tree/master/WEEK15/81.%20Actor%20Model) [82. Socket](https://github.com/kauKoala/Backend-Study/tree/master/WEEK15/82.%20Socket) | `진행완료` | 24.5.12 |
+| WEEK16 | 주제 발표 | [85. 파이썬 kwargs](https://github.com/kauKoala/Backend-Study/tree/master/WEEK16/85.%20%ED%8C%8C%EC%9D%B4%EC%8D%AC%20kwargs) | [86. I/O 메커니즘](https://github.com/kauKoala/Backend-Study/tree/master/WEEK16/86.%20IO%20%EB%A9%94%EC%BB%A4%EB%8B%88%EC%A6%98) | [88. 드라이빙 테이블](https://github.com/kauKoala/Backend-Study/tree/master/WEEK16/88.%20%EB%93%9C%EB%9D%BC%EC%9D%B4%EB%B9%99%20%ED%85%8C%EC%9D%B4%EB%B8%94) | [84. HTTPS](https://github.com/kauKoala/Backend-Study/tree/master/WEEK16/84.%20HTTPS) | `진행완료` | 24.5.19 |
 
 ### ✅ 스터디 목적
 
@@ -99,64 +111,95 @@ WEEK1 / 이름 / 파일
 
 ## ✅ 스터디에 사용되는 주제 리스트
 
-| **주제 번호** | **주제**   | 진행 여부 | 발표링크  |
+| **주제 번호** | **주제**   | 진행 여부  | 발표링크  |
 |:-------------:|--------------|:------:|-----|
-| 1 | OAuth와 사용경험 | ✅ |  |
-| 2 | 프레임워크와 라이브러리의 차이 |✅|  |
-| 3 | 절차지향과 객체지향의 차이 |✅ |  |
-| 4 | CSRF|✅  |  |
-| 5 | MVC |✅|  |
-| 6 | 본인이 쓰는 언어가 엔진단에서 어떻게 동작하는지|✅|   |
-| 7 | HTTP |✅|  |
-| 8 | REST | |  |
-| 9 | RESTful 한 API란 어떤것? | |  |
-| 10 | HTTP Method 종류와 사용해야 하는 시점? | |  |
-| 11 | 쿠키와 세션은 무슨 차이인가 |✅|  |
-| 12 | 제네릭 | |  |
-| 13 | 오버라이딩과 오버로딩 | |  |
-| 14 | 상속 | |  |
-| 15 | 인터페이스와 추상클래스 | |  |
-| 16 | mutable과 immutable |✅|  |
-| 17 | call by reference vs call by name vs call by address| |  |
-| 18 | 싱글톤패턴 | |  |
-| 19 | 코루틴 | |  |
-| 20 | 직렬화와 역직렬화 | |  |
-| 21 | json | |  |
-| 22 | protected, private, public의 차이 | |  |
-| 23 | 서버가 한대 있는것과 여러대 있는 것의 차이 | |  |
-| 24 | 병렬 프로그래밍을 해본적 있는지? | |  |
-| 25 | N+1 문제와 해결방법 | |  |
-| 26 | 프로세스와 스레드의 차이 | |  |
-| 27 | Pub/Sub 개념 | |  |
-| 28 | MessageQueue | |  |
-| 29 | Lock 개념을 아는지 | |  |
-| 30 | 세마포어와 뮤텍스 / 언제사용? / 어떤 구현방법? |  |  |
-| 31 | 트랜잭션 | |  |
-| 32 | DB isolation level | |  |
-| 33 | 데드락 | |  |
-| 34 | 인덱스와 왜 인덱스를 사용하면 빠른지? |✅|  |
-| 35 | 좋은 인덱스는? | |  |
-| 36 | 무결성 | |  |
-| 37 | GC |✅|  |
-| 38 | thread safe 하게 개발하는법은? | |  |
-| 39 | inner join vs outer join | |  |
-| 40 | 정규화 | |  |
-| 41 | 반정규화 / 사용해야할때 | |  |
-| 42 | DB 클러스터링 | |  |
-| 43 | DB Replication | |  |
-| 44 | RDB vs NoSQL | |  |
-| 45 | ElasticSearch | |  |
-| 46 | MSA vs Monolithic | |  |
-| 47 | 대칭키 vs 비대칭키 | |  |
-| 48 | Scale up vs Scale out | |  |
-| 49 | Docker는 왜 많이 사용될까? | |  |
-| 50 | 패키지 관리자(Package Manager) | |  |
-| 51 | 환경변수 | |  |
-| 52 | 파일 권한체계와 소유권 | |  |
-| 53 | 공인 IP vs 사설 IP |✅ |  |
-| 54 | AWS | |  |
-| 55 | 컴파일 언어 vs 인터프리터 언어 |  |  |
-| 56 | 클린코드 | |  |
-| 57 | CI/CD |✅|  |
-| 58 | Testing | |  |
-| 59 | TCP와 UDP | ✅|  |
+| 1 | OAuth와 사용경험 |   ✅    |  |
+| 2 | 프레임워크와 라이브러리의 차이 |   ✅    |  |
+| 3 | 절차지향과 객체지향의 차이 |   ✅    |  |
+| 4 | CSRF|   ✅    |  |
+| 5 | MVC |   ✅    |  |
+| 6 | 본인이 쓰는 언어가 엔진단에서 어떻게 동작하는지|   ✅    |   |
+| 7 | HTTP |   ✅    |  |
+| 8 | REST |   ✅    |  |
+| 9 | RESTful 한 API란 어떤것? |        |  |
+| 10 | HTTP Method 종류와 사용해야 하는 시점? |        |  |
+| 11 | 쿠키와 세션은 무슨 차이인가 |   ✅    |  |
+| 12 | 제네릭 |   ✅    |  |
+| 13 | 오버라이딩과 오버로딩 |   ✅    |  |
+| 14 | 상속 |        |  |
+| 15 | 인터페이스와 추상클래스 |        |  |
+| 16 | mutable과 immutable |   ✅    |  |
+| 17 | call by reference vs call by name vs call by address|   ✅    |  |
+| 18 | 싱글톤패턴 |   ✅    |  |
+| 19 | 코루틴 |        |  |
+| 20 | 직렬화와 역직렬화 |   ✅    |  |
+| 21 | json |        |  |
+| 22 | protected, private, public의 차이 |        |  |
+| 23 | 서버가 한대 있는것과 여러대 있는 것의 차이 |        |  |
+| 24 | 병렬 프로그래밍을 해본적 있는지? |        |  |
+| 25 | N+1 문제와 해결방법 |        |  |
+| 26 | 프로세스와 스레드의 차이 |        |  |
+| 27 | Pub/Sub 개념 |        |  |
+| 28 | MessageQueue |   ✅    |  |
+| 29 | Lock 개념을 아는지 |   ✅    |  |
+| 30 | 세마포어와 뮤텍스 / 언제사용? / 어떤 구현방법? |   ✅    |  |
+| 31 | 트랜잭션 |        |  |
+| 32 | DB isolation level |   ✅    |  |
+| 33 | 데드락 |   ✅    |  |
+| 34 | 인덱스와 왜 인덱스를 사용하면 빠른지? |   ✅    |  |
+| 35 | 좋은 인덱스는? |        |  |
+| 36 | 무결성 |        |  |
+| 37 | GC |   ✅    |  |
+| 38 | thread safe 하게 개발하는법은? |        |  |
+| 39 | inner join vs outer join |   ✅    |  |
+| 40 | 정규화 |        |  |
+| 41 | 반정규화 / 사용해야할때 |        |  |
+| 42 | DB 클러스터링 |   ✅    |  |
+| 43 | DB Replication |   ✅    |  |
+| 44 | RDB vs NoSQL |        |  |
+| 45 | ElasticSearch |        |  |
+| 46 | MSA vs Monolithic |        |  |
+| 47 | 대칭키 vs 비대칭키 |   ✅    |  |
+| 48 | Scale up vs Scale out |        |  |
+| 49 | Docker는 왜 많이 사용될까? |        |  |
+| 50 | 패키지 관리자(Package Manager) |   ✅    |  |
+| 51 | 환경변수 |        |  |
+| 52 | 파일 권한체계와 소유권 |   ✅    |  |
+| 53 | 공인 IP vs 사설 IP |   ✅    |  |
+| 54 | AWS |        |  |
+| 55 | 컴파일 언어 vs 인터프리터 언어 |        |  |
+| 56 | 클린코드 |        |  |
+| 57 | CI/CD |   ✅    |  |
+| 58 | Testing |        |  |
+| 59 | TCP와 UDP |   ✅    |  |
+| 60 | 스프링 빈 |   ✅    |  |
+| 61 | 스프링, 스프링 부트 |   ✅    |  |
+| 62 | IP, 이더넷 |   ✅    |  |
+| 63 | DNS |   ✅    |  |
+| 64 | 네트워크 에러 핸들링 |   ✅    |  |
+| 65 | 운영체제 정리 |   ✅    |  |
+| 66 | ETL 파이프라인 |   ✅    |  |
+| 67 | JPA Audtiing |   ✅    |  |
+| 68 | Filter vs Interceptor (1) |   ✅    |  |
+| 69 | Filteer vs Interceptor (2) |   ✅    |  |
+| 70 | 하둡 역사, HDFS 기초 |   ✅    |  |
+| 71 | Spark |   ✅    |  |
+| 72 | 해시 테이블과 해시 충돌 |   ✅    |  |
+| 73 | 서버에서 rm 실수 줄이기 |   ✅    |  |
+| 74 | Spring Batch (1) |   ✅    |  |
+| 75 | Spring Batch (2) |   ✅    |  |
+| 76 | CORS |   ✅    |  |
+| 77 | 동기 / 비동기,블로킹 / 논블로킹 |   ✅    |  |
+| 78 | Compare and Swap |   ✅    |  |
+| 79 | Software Transactional Memory |   ✅    |  |
+| 80 | 객체지향 생활체조 원칙 |   ✅    |  |
+| 81 | Actor Model |   ✅    |  |
+| 82 | Socket |   ✅    |  |
+| 83 | Bitmap Indx |   ✅    |  |
+| 84 | HTTPS |   ✅    |  |
+| 85 | 파이썬의 ** |   ✅    |  |
+| 86 | I/O 메커니즘 |   ✅    |  |
+| 86 | I/O 메커니즘 |   ✅    |  |
+| 86 | I/O 메커니즘 |   ✅    |  |
+| 87 | Oracle vs MySQL |   ✅    |  |
+| 88 | 드라이빙 테이블 |   ✅    |  |
